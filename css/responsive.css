@@ -8,9 +8,15 @@
   .home .home-banner .home-banner-text {
     transform: translate(-80%, -50%);
   }
+
+  /* offer css  */
+  .offers .offer-box .offer-info .heading-bigger {
+    font-size: 3rem;
+  }
+
+  /* special css  */
 }
 
-/* special css  */
 @media (max-width: 991px) {
   /* home css  */
   .home .home-banner .home-banner-text {
