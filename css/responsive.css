@@ -43,3 +43,14 @@
     font-size: 2rem;
   }
 }
+
+@media (max-width: 330px) {
+  /* home css  */
+  .home .home-banner .home-banner-text h2 {
+    font-size: 1rem;
+  }
+  .home .home-banner-1,
+  .home .home-banner-2 {
+    background-position: center center center/cover;
+  }
+}
