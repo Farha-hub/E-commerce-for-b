@@ -48,6 +48,9 @@
   .home .slider-icon {
     font-size: 2rem;
   }
+  .products .up-to-content h2 {
+    font-size: 0.75rem;
+  }
 }
 
 @media (max-width: 330px) {
