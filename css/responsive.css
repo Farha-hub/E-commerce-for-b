@@ -31,6 +31,10 @@
     padding-top: 1rem;
     padding-bottom: 5rem;
   }
+  /* Testimonial css  */
+  .testimonial {
+    margin-top: 9rem;
+  }
 }
 
 @media (max-width: 767px) {
@@ -72,6 +76,16 @@
   .special .countdown-container .countdown-counter {
     display: flex;
     flex-direction: row;
+  }
+
+  /* Testimonial css  */
+
+  .testimonial .testimonial-wrapper {
+    padding: 1rem;
+  }
+  .testimonial .carousel-control-next-icon,
+  .testimonial .carousel-control-prev-icon {
+    display: none;
   }
 }
 
